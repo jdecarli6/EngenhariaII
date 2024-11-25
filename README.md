@@ -1,8 +1,9 @@
 # Engenharia de Software I (20242)
 # Nome dos integrantes do grupo:
-1) Fulano
-2) Sicrano
-3) Beltrano
+1) Ruan Wickert
+2) Rafael Rockenbach
+3) Bernardo Bernardi
+4) João Decarli
 
 ## Casos de uso do sistema de reserva de passagens aéreas
 Tabelas com a descrição dos casos de uso
