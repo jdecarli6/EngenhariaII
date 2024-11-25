@@ -22,19 +22,21 @@ Tabelas com a descrição dos casos de uso
 
 
 ## Diagrama de casos de uso
-Inserir nesta posição o diagrama de casos de uso em formato JPG.
-![image](https://github.com/user-attachments/assets/c5d06f7e-5ebf-4514-92a8-298d01401226)
+
+![Diagrama PlantUML](https://www.planttext.com/api/plantuml/png/PP2x2iCm34LtW__1PC_Gf7D9C1sw5le1mbP1u3WWAVd-lgaJZpeShguqY0BhCYLh8EZCpYV2hFWRnpXH9b66EBCrrYo20GHTSyaK2DXTKP1NQ1o8k_b3OPplgBHMIbSeOrBaokWBmqCEc2hb-EhoxUhQzlHPlGNT7lHxy4pP7FZ70-Ru_ie3)
 
 ## Modelo de Domínio
-Inserir nesta posição o modelo de domínio em formato JPG.
+
 ![Diagrama PlantUML](https://www.planttext.com/api/plantuml/png/VLNDQXmn3BuFp3kOlGJQxDBIsn12DjiMIg6K9FIkZhKJ5ziojcS9BNsOqaEVe4-mBrPv_dPsPjAzhD4dMv-aJvgR4C77skWykn0x3I5W4CuhMoe7AWX98gWGqK2UbGbc9uKselYHPu9_BqNfzeMuZtodwas-cbei6PpQ94Ju1A5KXX-aGho5Y3t60PMUNYXHrnhypAmaIBp3e2GoRvZYzNu9-vbdVKhlZFCOO9IITT-MCkWSfr14ZNkok2CR8MLo3ZUvF8ErtEUC5tbo6kWFOvuaLKMTUQcyvqLz9C-M1wvtR-7knphqDyNL5UY87YHS2jnZL8VcM8BbqlFn-hg_U03TCV_0OgZGyrsf82IF4UClH5EsR9eo9QygD3F-6AAoC-UKX5Tq3np_F9aEsJrY1LDCieWX2U2Z6IYVCTsY9mk7aQwZShFW7Yj-oDFTzdRMIN3GTdFBGyI23ik1FYjDaVuxFal3Ocl336yz7cRGCsCn6Q4n1QYWcRaJ2uEH90t0I15EFLsAhwJP8Id1n-DlEkd0WK_I26CTcEElfuruSoOMyWyKWUcyrmJnL4uq_7IWpiwNqN2GGDpzNdODeK5N5uBBIzp8uv_ZNzvL37eK44JPBgyywnVKwlLAhDVyjzcyM0spKt1GrkvttcVzs2yvvbbo1McKJGrdx_w1mNlLg3kzjqUFwy1QIuOHFcYg47LKRT29IwU6GhXq05wtZlnYi5FJ2i5rXhOOTroWKd6K5iBWa6kZvrLujTdmgK-Pun5NsA6Fl1QJGc_GokOpy0y0)
 
 ## Diagrama de Atividades
-Inserir nesta posição o diagrama de atividades em formato JPG.
-![image](https://github.com/user-attachments/assets/e18391d4-530b-4012-9952-1f0357782732)
+
+![Diagrama PlantUML](https://www.planttext.com/api/plantuml/png/RP11RW8n34NtaN87BuShmAAWeQgweLMHs4U91onbx2eENAYB7g17c8lLKuOH4iqcYVtz_Uorrb3gkS_U_RsyMxuoHGe5Fb2nNCBAE-gWQJCXLuHmhdPJ34cU5b1FoD3igLzu1tQMUymOITZgtmeTiGU4BMebbjKaUTOe-OG53ZB7fbu5DgfcFyOnAqAp6xvazfPiP7LKtI26RykFOaxKNK4dAsY5EofzIE4_pXSivjCEFucE0Wdlfhr2ycNSmSraxlC0rGQEc4twNYIYwXsDLldqRcq_s-yl)
+
 
 ## Diagrama de Classes de Implementação
- Inserir nesta posição o diagrama de classes de Implementação em formato JPG.
-![image](https://github.com/user-attachments/assets/501e4f67-2f1e-402b-b54e-44956731630a)
+
+![Diagrama PlantUML](https://www.planttext.com/api/plantuml/png/PP113e8m44NtJNg7BZM62x0m6EBIXE09HXX9az8cqu45nhiBs5RKhjhNzityAJm3yT0RAHe3tglIQBICwY65cjVXDF1yrWtGRf-hctC6mOQx6i7e2QX6ZpJ2yY1ifNXA4PM19UNvZgp7jt1qkesL32FzqH9iWsQBD-OAEkZdzbnoNv1Twt9rPTAs2x02MXm-LzhoJ-z9yHLlhH57aMN7JwuOPe7fhnG5sdQTuWi0)
+
 
 ![image](https://github.com/user-attachments/assets/9041d4c8-7ec5-47c7-a285-ebd9906ca79e)
