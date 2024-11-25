@@ -9,16 +9,16 @@
 Tabelas com a descrição dos casos de uso
 | **Caso de Uso 1**                 | **Descrição**                                                                                                                                       |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome do caso de uso**           | Fazer reserva de passagem                                                                                                                          |
-| **Escopo**                        | Sistema de vendas de passagens aéreas                                                                                                              |
-| **Nível**                         | Objetivo do usuário                                                                                                                                |
-| **Ator principal**                | Cliente autenticado (pessoa física ou jurídica)                                                                                                   |
-| **Interessados e interesses**     | Clientes: realizar reservas de forma eficiente e segura.<br>Empresa: garantir reservas organizadas e gerar vendas de passagens.                   |
-| **Pré-condições**                 | O cliente deve estar cadastrado e autenticado no sistema.                                                                                         |
-| **Garantias de sucesso**          | Reserva registrada no sistema com código único, pronta para efetivação ou alteração dentro do prazo de validade.                                  |
-| **Cenário de sucesso**            | 1. Cliente acessa o sistema.<br>2. Escolhe origem, destino, data e horário do voo.<br>3. Seleciona assento disponível.<br>4. Reserva é confirmada. |
-| **Extensões**                     | - Reserva cancelada pelo cliente antes do prazo.<br>- Reserva expirada após 30 dias.<br>- Sistema avisa indisponibilidade de voo ou assento.       |
-| **Requisitos especiais**          | - O sistema deve autenticar o cliente antes de realizar a reserva.<br>- Código único para cada reserva.<br>- Garantir segurança nos pagamentos.    |
+| **Nome do caso de uso**           | Realizar reserva de voo                                                                                                                            |
+| **Escopo**                        | Sistema de gerenciamento de reservas de voos                                                                                                       |
+| **Nível**                         | Meta do usuário                                                                                                                                     |
+| **Ator principal**                | Cliente autenticado (individual ou empresa)                                                                                                       |
+| **Interessados e interesses**     | Clientes: realizar reservas de maneira prática e confiável.<br>Empresa: organizar reservas e gerar vendas de passagens de forma eficiente.         |
+| **Pré-condições**                 | Cliente deve possuir cadastro ativo e estar autenticado no sistema.                                                                               |
+| **Garantias de sucesso**          | A reserva é salva com um código único e está disponível para ser confirmada, modificada ou cancelada dentro do prazo estabelecido.                 |
+| **Cenário de sucesso**            | 1. Cliente acessa o sistema.<br>2. Seleciona origem, destino, data e horário do voo.<br>3. Escolhe um assento disponível.<br>4. Reserva é registrada. |
+| **Extensões**                     | - Cliente cancela a reserva antes do prazo.<br>- Reserva expira automaticamente após 30 dias.<br>- Sistema informa falta de disponibilidade.        |
+| **Requisitos especiais**          | - O sistema deve validar a identidade do cliente antes de permitir reservas.<br>- Cada reserva deve ter um código único.<br>- Segurança nos pagamentos. |
 
 
 ## Diagrama de casos de uso
