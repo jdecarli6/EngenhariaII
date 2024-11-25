@@ -7,7 +7,19 @@
 
 ## Casos de uso do sistema de reserva de passagens aéreas
 Tabelas com a descrição dos casos de uso
-![image](https://github.com/user-attachments/assets/41c6f615-98e4-44f5-8d5e-d22480685385)
+| **Caso de Uso 1**                 | **Descrição**                                                                                                                                       |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome do caso de uso**           | Fazer reserva de passagem                                                                                                                          |
+| **Escopo**                        | Sistema de vendas de passagens aéreas                                                                                                              |
+| **Nível**                         | Objetivo do usuário                                                                                                                                |
+| **Ator principal**                | Cliente autenticado (pessoa física ou jurídica)                                                                                                   |
+| **Interessados e interesses**     | Clientes: realizar reservas de forma eficiente e segura.<br>Empresa: garantir reservas organizadas e gerar vendas de passagens.                   |
+| **Pré-condições**                 | O cliente deve estar cadastrado e autenticado no sistema.                                                                                         |
+| **Garantias de sucesso**          | Reserva registrada no sistema com código único, pronta para efetivação ou alteração dentro do prazo de validade.                                  |
+| **Cenário de sucesso**            | 1. Cliente acessa o sistema.<br>2. Escolhe origem, destino, data e horário do voo.<br>3. Seleciona assento disponível.<br>4. Reserva é confirmada. |
+| **Extensões**                     | - Reserva cancelada pelo cliente antes do prazo.<br>- Reserva expirada após 30 dias.<br>- Sistema avisa indisponibilidade de voo ou assento.       |
+| **Requisitos especiais**          | - O sistema deve autenticar o cliente antes de realizar a reserva.<br>- Código único para cada reserva.<br>- Garantir segurança nos pagamentos.    |
+
 
 ## Diagrama de casos de uso
 Inserir nesta posição o diagrama de casos de uso em formato JPG.
